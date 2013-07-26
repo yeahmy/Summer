@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DAY2-7.22/DAY2-7.22.iml" filepath="$PROJECT_DIR$/DAY2-7.22/DAY2-7.22.iml" />
       <module fileurl="file://$PROJECT_DIR$/DAY3-7.23/DAY3-7.23.iml" filepath="$PROJECT_DIR$/DAY3-7.23/DAY3-7.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY4-7.24(2)/DAY4-7.24(2).iml" filepath="$PROJECT_DIR$/DAY4-7.24(2)/DAY4-7.24(2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY5-7.25/DAY5-7.25.iml" filepath="$PROJECT_DIR$/DAY5-7.25/DAY5-7.25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY6-7.26/DAY6-7.26.iml" filepath="$PROJECT_DIR$/DAY6-7.26/DAY6-7.26.iml" />
       <module fileurl="file://$PROJECT_DIR$/项目.iml" filepath="$PROJECT_DIR$/项目.iml" />
     </modules>
   </component>
