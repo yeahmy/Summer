@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be44705f-8dc8-42a1-b7a0-98f905cd2fc0" name="Default" comment="summer">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/little/big/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/AbstractTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/AbstractTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/little/big/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/little/big/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY6-7.26/src/test/Chararray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY4-7.24(2)/DAY4-7.24(2).iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/DAY5-7.25.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY6-7.26/DAY6-7.26.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/little/big/J_p.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/exercise/M.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/exercise/Qipan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY6-7.26/src/test/Qipan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/Square.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY5-7.25/src/exercise/Stringtest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY6-7.26/src/Stringtest1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DAY4-7.24/src/yeahmy/firstpacage/Square.java" afterPath="$PROJECT_DIR$/DAY4-7.24/src/yeahmy/firstpacage/Square.java" />
+    <list default="true" id="be44705f-8dc8-42a1-b7a0-98f905cd2fc0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY7-7.29/DAY7-7.29.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY7-7.29/src/exception/Exception.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY7-7.29/src/exception/InputStreamTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY7-7.29/src/exception/RandomTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DAY7-7.29/src/exception/ReaderTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="项目.iws" />
@@ -40,6 +26,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -76,7 +63,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -88,19 +74,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Qipan.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/exercise/Qipan.java">
+      <file leaf-file-name="Exception.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/Exception.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="55" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="736">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stringtest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/exercise/Stringtest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="774" selection-end="774" vertical-scroll-proportion="-23.0" vertical-offset="0" max-vertical-offset="1035">
+            <state line="26" column="12" selection-start="675" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="874">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,47 +85,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stringtest1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DAY6-7.26/src/Stringtest1.java">
+      <file leaf-file-name="InputStreamTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/InputStreamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
-              <folding />
+            <state line="16" column="45" selection-start="427" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="644">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chararray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DAY6-7.26/src/test/Chararray.java">
+      <file leaf-file-name="ReaderTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/ReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="21" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.0" vertical-offset="806" max-vertical-offset="1403">
-              <folding />
+            <state line="17" column="16" selection-start="291" selection-end="291" vertical-scroll-proportion="0.7" vertical-offset="69" max-vertical-offset="529">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Qipan.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DAY6-7.26/src/test/Qipan.java">
+      <file leaf-file-name="RandomTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/RandomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="38" selection-start="87" selection-end="87" vertical-scroll-proportion="0.40087146" vertical-offset="0" max-vertical-offset="459">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="J_p.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/little/big/J_p.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="826" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="943">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="M.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/exercise/M.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="713" max-vertical-offset="874">
-              <folding />
+            <state line="14" column="42" selection-start="347" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="690">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,11 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/DAY4-7.24(2)/src/test/AbstractTest.java" />
-        <option value="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/AbstractTest.java" />
-        <option value="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/AbstractTest2.java" />
-        <option value="$PROJECT_DIR$/DAY4-7.24/src/yeahmy/firstpacage/Square.java" />
-        <option value="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/Shape.java" />
         <option value="$PROJECT_DIR$/DAY4-7.24(2)/src/test1/Square.java" />
         <option value="$PROJECT_DIR$/DAY5-7.25/src/little/big/A.java" />
         <option value="$PROJECT_DIR$/DAY5-7.25/src/little/big/B.java" />
@@ -187,6 +147,11 @@
         <option value="$PROJECT_DIR$/DAY6-7.26/src/Stringtest1.java" />
         <option value="$PROJECT_DIR$/DAY6-7.26/src/test/Chararray.java" />
         <option value="$PROJECT_DIR$/DAY6-7.26/src/test/Qipan.java" />
+        <option value="$PROJECT_DIR$/DAY7-7.29/src/exception/Exception.java" />
+        <option value="$PROJECT_DIR$/DAY7-7.29/src/exception/Reader.java" />
+        <option value="$PROJECT_DIR$/DAY7-7.29/src/exception/InputStreamTest.java" />
+        <option value="$PROJECT_DIR$/DAY7-7.29/src/exception/RandomTest.java" />
+        <option value="$PROJECT_DIR$/DAY7-7.29/src/exception/ReaderTest.java" />
       </list>
     </option>
   </component>
@@ -246,6 +211,63 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAY7-7.29" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Summer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAY7-7.29" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exception" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -256,85 +278,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DAY6-7.26" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DAY6-7.26" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Summer1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DAY6-7.26" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="jdk.selected.JAVA_MODULE" value="1.7" />
@@ -342,7 +289,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="settings.github" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="D:/JAVA11" />
+    <property name="last_opened_file_path" value="D:/SummerTestDemo" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -354,29 +301,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Chararray">
-    <configuration default="false" name="Square" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="test1.Square" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DAY4-7.24(2)" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Exception">
     <configuration default="false" name="J_p" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -460,6 +385,28 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="DAY6-7.26" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exception" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="exception.Exception" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DAY7-7.29" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -557,19 +504,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Square" />
-      <item index="1" class="java.lang.String" itemvalue="Application.J_p" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Qipan" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Stringtest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Chararray" />
+      <item index="0" class="java.lang.String" itemvalue="Application.J_p" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Qipan" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Stringtest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Chararray" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Exception" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Chararray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Stringtest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Qipan" />
-        <item index="3" class="java.lang.String" itemvalue="Application.J_p" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Square" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Exception" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Chararray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Stringtest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Qipan" />
+        <item index="4" class="java.lang.String" itemvalue="Application.J_p" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -628,8 +575,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318507" sideWeight="0.6797203" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32027972" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318507" sideWeight="0.6811189" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31888112" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -767,26 +714,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DAY4-7.24(2)/src/test1/AbstractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="42" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAY4-7.24/src/yeahmy/firstpacage/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="178" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAY4-7.24/src/yeahmy/firstpacage/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="12" selection-start="208" selection-end="970" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="1219" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAY4-7.24(2)/src/test1/AbstractTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="874" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DAY4-7.24(2)/src/test1/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="5" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1081" />
@@ -819,13 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/little/big/J_p.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="826" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="943">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/exercise/Qipan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="55" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="736">
@@ -835,16 +755,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/exercise/Stringtest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="774" selection-end="774" vertical-scroll-proportion="-23.0" vertical-offset="0" max-vertical-offset="1035">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="25" column="0" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="855">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DAY6-7.26/src/Stringtest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
+        <state line="8" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="266">
           <folding />
         </state>
       </provider>
@@ -858,8 +776,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DAY6-7.26/src/test/Qipan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="38" selection-start="87" selection-end="87" vertical-scroll-proportion="0.40087146" vertical-offset="0" max-vertical-offset="459">
+        <state line="4" column="16" selection-start="62" selection-end="62" vertical-scroll-proportion="0.13372093" vertical-offset="0" max-vertical-offset="688">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY5-7.25/src/little/big/J_p.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="826" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="943">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="12" selection-start="675" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="874">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/InputStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="45" selection-start="427" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="644">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="42" selection-start="347" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="690">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY7-7.29/src/exception/ReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="291" selection-end="291" vertical-scroll-proportion="0.7" vertical-offset="69" max-vertical-offset="529">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
