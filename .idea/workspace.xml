@@ -4,8 +4,7 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be44705f-8dc8-42a1-b7a0-98f905cd2fc0" name="Default" comment="7.30">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="be44705f-8dc8-42a1-b7a0-98f905cd2fc0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="项目.iws" />
@@ -283,7 +282,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="C:/" />
+    <property name="last_opened_file_path" value="D:/Weekend/DAY4-7.28(2)" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -602,7 +601,11 @@
       <created>1375184128191</created>
       <updated>1375184128191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7.30">
+      <created>1375259835431</created>
+      <updated>1375259835431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
